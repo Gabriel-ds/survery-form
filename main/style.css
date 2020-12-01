@@ -1,0 +1,24 @@
+body {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+form {
+    width: 500px;
+    border-radius: 8px;
+    padding: 10px 25px 25px 25px;
+    display: inline-block; 
+    text-align: left;
+    height: 100%;
+    background-color: aqua;
+}
+.form-group {
+    padding-top: 20px;
+}
+.info {
+    margin-top: 5px;
+    width: 100%;
+}
+.box {
+    font-weight: 10;
+}
